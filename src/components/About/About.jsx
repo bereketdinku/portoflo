@@ -27,12 +27,9 @@ const About = () =>{
                  <h5>Clients</h5>
                  <small>on progress</small>   
                 </article>
-                <article className="about_card">
-                    <VscFolderLibrary
-                     className="about_icon"/>
-                 </article>
+                
                   </div> 
-                  <p>web Development with junior Knowledge and fresh experience working in web technology.</p> <a href="#contact"className="btn btn-primary">Let's Talk</a>
+                  <p>web Development with junior Knowledge and fresh experience working in web technology</p> <a href="#contact"className="btn btn-primary">Let s Talk</a>
                
             </div>
         </div>
